@@ -1,4 +1,4 @@
-# Algorithms-and-Data-Structures-projects
+# Team Management
 A university project about Algorithms and Data Structures written in C.
 
 The project simulate the work of a company human resources team, that manages the employees and the projects that they have to work on.
